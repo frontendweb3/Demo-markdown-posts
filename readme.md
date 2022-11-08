@@ -11,9 +11,9 @@ Demo markdown posts is wriiten with Lorem Ipsum. In markdown posts, I can use bo
 
 Total 21 posts, 11 random authors and 2 pages. 
 
-Copyright
+## Copyright
 1. All the images copyright belong to pixabay.com
 2. All the posts write with Lorem Ipsum. 
 
-Note
+## Note
 All the author names, images and titles are just auto-generated and do not compare with real blogs.

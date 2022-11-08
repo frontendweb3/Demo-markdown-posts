@@ -5,7 +5,7 @@ date: 2022-11-08T09:01:53.077Z
 draft: "true"
 tags: 
    - Rajdeep Singh
-image: "/images/author-6.jpg"
+image: "/images/rajdeep-singh.png"
 social: 
   - facebook.com
   - Google.com
