@@ -1,9 +1,9 @@
 ---
 title: Understand The Android Features Before You Regret.
-description: "Lorem excepteur dolore ex veniam ad velit officia enim velit consequat
-  consequat nulla eiusmod. "
+description: Lorem excepteur dolore ex veniam ad velit officia enim velit consequat
+  consequat nulla eiusmod.
 date: 2022-11-08T08:48:51.359Z
-draft: "true"
+draft: false
 tags:
   - Android
   - Android Features

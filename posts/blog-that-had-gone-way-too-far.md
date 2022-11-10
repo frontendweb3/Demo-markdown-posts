@@ -3,7 +3,7 @@ title: 10 Blog That Had Gone Way Too Far
 description: Quis irure ex ad irure Lorem ullamco sit nostrud quis reprehenderit in
   occaecat mollit mollit.
 date: 2022-11-08T06:45:05.005Z
-draft: true
+draft: false
 tags:
   - Blog
   - Too

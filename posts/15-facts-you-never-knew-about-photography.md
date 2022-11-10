@@ -3,7 +3,7 @@ title: 15 Facts You Never Knew About Photography
 description: Dolor adipisicing adipisicing Lorem et irure veniam nisi anim excepteur mollit
   occaecat eu.
 date: 2022-11-08T08:14:33.826Z
-draft: "false"
+draft: false
 tags:
   - 15 facts
   - Photography

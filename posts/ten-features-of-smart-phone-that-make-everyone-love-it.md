@@ -3,7 +3,7 @@ title: Ten Features Of Smart Phone That Make Everyone Love It
 description: Ea nisi do cupidatat irure enim dolore velit cupidatat amet id et deserunt
   fugiat ex.
 date: 2022-11-08T08:45:19.957Z
-draft: "true"
+draft: false
 tags:
   - Features
   - Smart Phone

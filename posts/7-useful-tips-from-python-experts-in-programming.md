@@ -3,7 +3,7 @@ title: 7 Useful Tips From Python Experts In Programming.
 description: Eiusmod quis esse aliqua sit nostrud aliquip sunt minim irure laboris
   reprehenderit irure ex
 date: 2022-11-08T07:47:21.553Z
-draft: "false"
+draft: false
 tags:
   - Programming
   - Python

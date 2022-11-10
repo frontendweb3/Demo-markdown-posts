@@ -4,7 +4,7 @@ description: Mollit aute nostrud voluptate amet irure consectetur commodo cupida
   Non ut dolor nulla dolor duis. Anim eiusmod fugiat eiusmod ut nulla nulla
   labore.
 date: 2022-11-08T08:18:10.494Z
-draft: "false"
+draft: false
 tags:
   - Photography
 category:

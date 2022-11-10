@@ -4,7 +4,7 @@ description: Ea qui quis ad mollit enim in nostrud officia nisi id aute anim non
   Adipisicing aliqua amet adipisicing consequat eiusmod anim exercitation
   proident quis.
 date: 2022-11-08T08:54:26.105Z
-draft: "true"
+draft: false
 tags:
   - Android
   - Smart Phone

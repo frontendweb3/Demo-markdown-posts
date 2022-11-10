@@ -2,7 +2,7 @@
 title: The History of Humans?
 description: Consectetur ipsum ad incididunt ea minim irure mollit do velit consectetur occaecat amet. 
 date: 2022-11-08T07:57:21.360Z
-draft: "false"
+draft: false
 tags:
   - History
   - Humans

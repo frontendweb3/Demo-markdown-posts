@@ -4,7 +4,7 @@ description: Et ipsum occaecat labore adipisicing in aute est ipsum cillum. Volu
   dolore consequat ex ad exercitation consequat anim laboris sit dolore
   incididunt.
 date: 2022-11-08T07:38:29.689Z
-draft: "true"
+draft: false
 tags:
   - Learning
   - Tech
