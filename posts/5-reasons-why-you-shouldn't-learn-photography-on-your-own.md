@@ -3,7 +3,7 @@ title: 5 Reasons Why You Shouldn't Learn Photography On Your Own.
 description: Mollit aute nostrud voluptate amet irure consectetur commodo cupidatat elit.
   Non ut dolor nulla dolor duis. Anim eiusmod fugiat eiusmod ut nulla nulla
   labore.
-date: 2022-11-08T08:18:10.494Z
+date: 2022-11-09T08:18:10.494Z
 draft: false
 tags:
   - Photography

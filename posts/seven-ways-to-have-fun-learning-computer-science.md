@@ -2,7 +2,7 @@
 title: Seven Ways To Have Fun Learning Computer Science
 description: Quis eu excepteur nisi pariatur officia. Sit id dolore ullamco est ullamco
   excepteur tempor.
-date: 2022-11-08T08:36:48.923Z
+date: 2022-08-08T09:36:48.923Z
 draft: false
 tags:
   - Computer Science

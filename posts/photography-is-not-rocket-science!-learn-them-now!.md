@@ -2,7 +2,7 @@
 title: Photography Is Not Rocket Science! Learn Them Now!
 description: Est ex incididunt reprehenderit laboris anim mollit ex ut. Cupidatat nisi
   deserunt veniam ipsum proident consequat anim ipsum in.
-date: 2022-11-08T08:40:19.051Z
+date: 2022-11-01T08:40:19.051Z
 draft: false
 tags:
   - Photography
@@ -11,7 +11,7 @@ category:
   - Photography
 image: /images/smartphone.jpg
 author: Ashley Paul
-slug:photography-is-not-rocket-science-learn-them-now
+slug: photography-is-not-rocket-science-learn-them-now
 ---
 Anim excepteur reprehenderit excepteur sunt est ex incididunt reprehenderit laboris anim mollit ex ut. Cupidatat nisi deserunt veniam ipsum proident consequat anim ipsum in. Ex et reprehenderit dolor adipisicing anim culpa ipsum ea excepteur cupidatat labore.
 ## Elit consequat

@@ -3,7 +3,7 @@ title: Why Learning Tech Can Actually Improve Your working Speed!
 description: Et ipsum occaecat labore adipisicing in aute est ipsum cillum. Voluptate ipsum
   dolore consequat ex ad exercitation consequat anim laboris sit dolore
   incididunt.
-date: 2022-11-08T07:38:29.689Z
+date: 2022-10-12T07:38:29.689Z
 draft: false
 tags:
   - Learning

@@ -3,7 +3,7 @@ title: Seven Mind Numbing Facts About Smart Phone.
 description: Ea qui quis ad mollit enim in nostrud officia nisi id aute anim non.
   Adipisicing aliqua amet adipisicing consequat eiusmod anim exercitation
   proident quis.
-date: 2022-11-08T08:54:26.105Z
+date: 2022-02-08T08:54:26.105Z
 draft: false
 tags:
   - Android
