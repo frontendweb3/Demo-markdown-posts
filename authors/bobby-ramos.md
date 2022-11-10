@@ -1,8 +1,8 @@
 ---
 name: Bobby Ramos
 description: Sit culpa elit excepteur ea Lorem ullamco eiusmod ex ut ea incididunt minim. Cillum eiusmod fugiat cupidatat.
-date: 2022-11-08T09:01:53.077Z
-draft: "true"
+date: 2022-11-11T09:01:53.077Z
+draft: false
 tags: 
    - Bobby Ramos
 image: "/images/author-1.jpg"

@@ -1,8 +1,8 @@
 ---
 name: Emilio Tate
 description: Sit culpa elit excepteur ea Lorem ullamco eiusmod ex ut ea incididunt minim. Cillum eiusmod fugiat cupidatat.
-date: 2022-11-08T09:01:53.077Z
-draft: "true"
+date: 2022-11-19T09:02:53.077Z
+draft: false
 tags: 
    - Emilio Tate
 image: "/images/author-3.jpg"

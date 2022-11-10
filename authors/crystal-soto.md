@@ -1,8 +1,8 @@
 ---
 name: Crystal Soto
 description: Sit culpa elit excepteur ea Lorem ullamco eiusmod ex ut ea incididunt minim. Cillum eiusmod fugiat cupidatat.
-date: 2022-11-08T09:01:53.077Z
-draft: "true"
+date: 2022-11-12T09:03:53.077Z
+draft: false
 tags: 
    - Crystal Soto
 image: "/images/femaleart3.jpg"
