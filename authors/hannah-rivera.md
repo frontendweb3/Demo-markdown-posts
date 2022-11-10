@@ -7,8 +7,8 @@ tags:
    - Hannah Rivera
 image: "/images/women-4.jpg"
 social: 
-  - facebook.com
-  - Google.com
+  - https://www.facebook.com/officialrajdeepsingh
+  - https://twitter.com/Official_R_deep
 ---
 Sit culpa elit excepteur ea Lorem ullamco eiusmod ex ut ea incididunt minim. Cillum eiusmod fugiat cupidatat id qui dolor officia. Eu minim aliqua incididunt do anim consequat nisi.
 

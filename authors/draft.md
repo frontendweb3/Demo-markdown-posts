@@ -7,8 +7,8 @@ tags:
    - draft
 image: ""
 social: 
-  - facebook.com
-  - google.com
+  - https://www.facebook.com/officialrajdeepsingh
+  - https://twitter.com/Official_R_deep
 ---
 Sit culpa elit excepteur ea Lorem ullamco eiusmod ex ut ea incididunt minim. Cillum eiusmod fugiat cupidatat id qui dolor officia. Eu minim aliqua incididunt do anim consequat nisi.
 
