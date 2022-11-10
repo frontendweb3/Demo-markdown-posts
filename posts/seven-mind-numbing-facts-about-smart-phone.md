@@ -13,7 +13,7 @@ category:
   - Smart Phone
 image: /images/fantasy-android.jpg
 author: Hannah Rivera
-slug: mind-numbing-facts-smart-phone
+slug: seven-mind-numbing-facts-about-smart-phone
 ---
 Ea qui quis ad mollit enim in nostrud officia nisi id aute anim non. Adipisicing aliqua amet adipisicing consequat eiusmod anim exercitation proident quis. Proident incididunt veniam minim pariatur est aliquip tempor elit enim duis sint nulla.
 

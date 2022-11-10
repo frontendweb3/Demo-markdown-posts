@@ -11,7 +11,7 @@ category:
   - Blog
 image: /images/natural.jpg
 author: Annie Dean
-slug: top-10-sites-learn-programming-free
+slug: top-10-sites-you-can-learn-programming-for-free
 ---
 Culpa irure occaecat laboris consectetur magna. Adipisicing irure minim cupidatat in nulla et. In exercitation qui sit aliquip sint consectetur ex quis. Exercitation consequat ut eu ea occaecat quis ipsum exercitation adipisicing ut. Sunt minim ex elit sint cupidatat Lorem magna ad ad. 
 

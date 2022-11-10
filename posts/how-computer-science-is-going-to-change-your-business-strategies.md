@@ -11,6 +11,7 @@ category:
   - Computer Science
 image: images/technology.jpg
 author: Emilio Tate
+slug: how-computer-science-is-going-to-change-your-business-strategies
 ---
 Duis velit nisi pariatur incididunt culpa commodo ex nisi cillum culpa nisi aliquip et cupidatat. Cupidatat occaecat dolore dolor aute enim consequat nulla dolor dolor reprehenderit irure reprehenderit nisi. Irure ullamco cillum irure velit deserunt cupidatat Lorem mollit est voluptate. 
 ## Occaecat cupidatat

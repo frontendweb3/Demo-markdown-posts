@@ -1,5 +1,5 @@
 ---
-title: The History of Humans?
+title: The History of Humans
 description: Consectetur ipsum ad incididunt ea minim irure mollit do velit consectetur occaecat amet. 
 date: 2022-11-08T07:57:21.360Z
 draft: false
@@ -11,7 +11,7 @@ category:
   - Humans
 image: /images/humans.jpg
 author: DR. Jeffery Schwartz
-slug: history-humans
+slug: the-history-of-humans
 ---
 
 Consectetur ipsum ad incididunt ea minim irure mollit do velit consectetur occaecat amet. Amet minim sint qui laboris. Esse ad in aute laboris est reprehenderit laboris consectetur nisi. Occaecat laboris exercitation eiusmod duis duis et. Incididunt non eiusmod eiusmod minim duis nostrud ullamco ex velit dolore dolor. Ipsum anim anim fugiat nisi aute velit fugiat elit et velit dolore sint Lorem veniam. Officia pariatur cillum commodo occaecat qui.

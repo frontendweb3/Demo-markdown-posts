@@ -11,7 +11,7 @@ category:
   - Android
 image: /images/smartphone.jpg
 author: Linda Pittman
-slug: understand-android-features-regret
+slug: understand-the-android-features-before-you-regret
 ---
 Anim amet qui ullamco proident. Reprehenderit deserunt et amet fugiat elit. Eu irure excepteur nisi reprehenderit est ipsum mollit.
 

@@ -9,6 +9,7 @@ tags:
   - npm cli
   - npm install command
 title: Random blog Title for markdown.
+slug: random-blog-title-for-markdown
 draft: false
 author: Rajdeep Singh
 ---

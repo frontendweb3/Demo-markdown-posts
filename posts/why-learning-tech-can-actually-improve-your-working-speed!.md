@@ -13,7 +13,7 @@ category:
   - Tech
 image: /images/hanoi-natural.jpg
 author: Ashley Paul
-slug: learning-tech-improve-working-speed
+slug: why-learning-tech-can-actually-improve-your-working-speed
 ---
 Qui nulla sint consectetur et veniam. Consequat magna duis ea esse culpa quis. Do anim reprehenderit nulla officia pariatur qui nisi cupidatat ex et consectetur ullamco nostrud. Et ipsum occaecat ea labore adipisicing in aute est ipsum cillum. Voluptate ipsum dolore consequat ex ad exercitation consequat anim laboris sit dolore incididunt. Laboris duis proident excepteur pariatur aliquip anim culpa ea ullamco.
 

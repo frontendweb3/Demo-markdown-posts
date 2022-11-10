@@ -11,7 +11,7 @@ category:
   - Blog
 image: ""
 author: Gregg Walker
-slug: ten-reasons-start-blog-blogging
+slug: ten-reasons-why-you-cannot-start-blog-blogging
 ---
 
 Incididunt aute elit voluptate irure do culpa aliquip occaecat commodo incididunt minim officia eiusmod. Eiusmod fugiat sunt consectetur officia fugiat qui exercitation. Magna laboris fugiat consequat elit sunt. Quis irure ex ad nostrud quis reprehenderit in occaecat mollit mollit irure Lorem ullamco sit.

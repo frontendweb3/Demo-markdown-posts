@@ -11,7 +11,7 @@ category:
   - Computer Science
 image: /images/computer.jpg
 author: Emilio Tate
-slug: 7-ways-computer-science-advantage
+slug: 7-ways-to-use-computer-science-to-your-advantage
 ---
 Magna officia ea ex labore ullamco ipsum quis elit. Incididunt magna do magna cupidatat ullamco laboris amet. Tempor aute ipsum culpa esse ipsum veniam excepteur duis mollit irure cillum.
 

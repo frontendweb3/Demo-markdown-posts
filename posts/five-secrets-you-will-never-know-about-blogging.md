@@ -12,6 +12,7 @@ category:
   - Blog
 image: /images/blog-2.jpg
 author: Rajdeep singh
+slug: the-five-secrets-you-will-never-know-about-blogging
 ---
 
 Est dolor incididunt adipisicing anim id anim sunt excepteur sint officia elit magna. Officia in exercitation magna qui qui consequat aliqua esse cillum. Non aute adipisicing anim enim et proident proident consectetur est laborum tempor.
