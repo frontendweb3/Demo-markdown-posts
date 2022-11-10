@@ -2,7 +2,7 @@
 name: About us
 description: About the author
 date: 2022-11-08T08:55:59.004Z
-draft: "true"
+draft: false
 tags:
   - Blog
   - About
