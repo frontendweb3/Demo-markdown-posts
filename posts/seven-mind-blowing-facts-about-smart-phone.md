@@ -1,5 +1,5 @@
 ---
-title: Seven Mind Numbing Facts About Smart Phone.
+title: Seven mind blowing Facts About Smart Phone.
 description: Ea qui quis ad mollit enim in nostrud officia nisi id aute anim non.
   Adipisicing aliqua amet adipisicing consequat eiusmod anim exercitation
   proident quis.
@@ -11,9 +11,9 @@ tags:
   - Facts
 category:
   - Smart Phone
-image: /images/fantasy-android.jpg
+image: /images/ios.jpg
 author: Hannah Rivera
-slug: seven-mind-numbing-facts-about-smart-phone
+slug: seven-mind-blowing-facts-about-smart-phone
 ---
 Ea qui quis ad mollit enim in nostrud officia nisi id aute anim non. Adipisicing aliqua amet adipisicing consequat eiusmod anim exercitation proident quis. Proident incididunt veniam minim pariatur est aliquip tempor elit enim duis sint nulla.
 

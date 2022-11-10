@@ -3,7 +3,7 @@ category:
   - Blog
 date: 2022-03-20T13:09:24Z
 description: Dolor excepteur ad ad fugiat Lorem consectetur velit excepteur duis qui.
-image: /images/npm-init-command-1.png
+image: /images/dice.jpg
 tags:
   - npm
   - npm cli

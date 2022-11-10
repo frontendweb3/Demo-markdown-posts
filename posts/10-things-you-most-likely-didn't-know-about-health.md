@@ -11,7 +11,7 @@ tags:
   - Didn't Know
 category:
   - Health
-image: ""
+image: /images/vegetables.jpg
 author: Curtis Lopez
 slug: 10-things-you-most-likely-didn-t-know-about-health
 ---

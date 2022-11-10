@@ -9,7 +9,7 @@ tags:
   - Android Features
 category:
   - Android
-image: /images/smartphone.jpg
+image: /images/android.jpg
 author: Linda Pittman
 slug: understand-the-android-features-before-you-regret
 ---

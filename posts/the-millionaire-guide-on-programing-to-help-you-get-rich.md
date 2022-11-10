@@ -10,7 +10,7 @@ tags:
   - Rich
 category:
   - Programing
-image:  /images/computer.jpg
+image:  /images/code.jpg
 author: Jeffery Schwartz
 slug: the-millionaire-guide-on-programing-to-help-you-get-rich
 ---

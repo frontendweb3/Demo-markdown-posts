@@ -9,7 +9,7 @@ tags:
   - Start blog
 category:
   - Blog
-image: ""
+image: /images/blogging.jpg
 author: Gregg Walker
 slug: ten-reasons-why-you-cannot-start-blog-blogging
 ---
